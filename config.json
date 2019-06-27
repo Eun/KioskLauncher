@@ -1,0 +1,10 @@
+{
+	"Program": {
+		"Path": "C:\\Users\\kiosk\\AppData\\Roaming\\Sky\\Sky Go\\Sky Go.exe",
+		"Title": "Sky Go"
+	},
+	"After": {
+		"Path": "C:\\Windows\\system32\\shutdown.exe",
+		"Arguments": ["/s", "/f", "/t", "0"]
+	}
+}
